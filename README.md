@@ -35,6 +35,11 @@ VEQ: Modality-Adaptive Quantization for MoE Vision-Language Models
 
 We achieve significant average accuracy gains of 2.04\% on Kimi-VL and 3.09\% on Qwen3-VL compared to the previous SOTA quantization methods
 
+Zero-shot performance of Kimi-VL-Instruct under 3-bit weight quantization (W3A16).
+<p align="center">
+  <img src="assets/figs/quantization_comparison.png" width="90%">
+</p>
+
 Detailed results can be found in the paper.
 
 <details>
