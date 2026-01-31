@@ -39,20 +39,21 @@ Detailed results can be found in the paper.
 
 <details>
 <summary>&ensp;Quantitative Comparisons (click to expand) </summary>
-<li> Performance comparison of various methods on Kimi-VL-Instruct. 
- 
-<p align="center">
-<img src="assets/figs/kimi-vl-result.png" >
-</p>
-</li>
-<li> Performance comparison of various methods on Qwen3-VL-30B-A3B-Instruct. 
-<p align="center">
-<img src="assets/figs/qwen3-vl-result.png" >
-</p>
-</li>
+<ul style="margin-top: 5px; margin-left: 10px;">
+  <li> Performance comparison of various methods on Kimi-VL-Instruct. 
+    <p align="center">
+      <img src="assets/figs/kimi-vl-result.png" width="90%">
+    </p>
+  </li>
+  <li> Performance comparison of various methods on Qwen3-VL-30B-A3B-Instruct. 
+    <p align="center">
+      <img src="assets/figs/qwen3-vl-result.png" width="90%">
+    </p>
+  </li>
+</ul>
 </details>
 
-<details open>
+<details>
 <summary>&ensp;Some examples on downstream tasks </summary>
 
 <p align="center">
