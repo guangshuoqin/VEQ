@@ -20,7 +20,7 @@ VEQ: Modality-Adaptive Quantization for MoE Vision-Language Models
 ![](assets/figs/method_graph.png)
 ## ⚒️ TODO
  
-* [x] Complete this repository
+* [ ] Complete this repository
 * [ ] Release the code
 
 ## 🔗 Contents
