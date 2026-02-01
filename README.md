@@ -2,7 +2,7 @@
 VEQ: Modality-Adaptive Quantization for MoE Vision-Language Models
 </h2>
 
-[Guangshuo Qin](https://github.com/qsstcl), [Zhiteng Li](https://zhitengli.github.io), [Zheng Chen](https://zheng-chen.cn/), Weihang Zhang, [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/) and [Yulun Zhang](http://yulunzhang.com/)
+[Guangshuo Qin](https://github.com/guangshuoqin), [Zhiteng Li](https://zhitengli.github.io), [Zheng Chen](https://zheng-chen.cn/), Weihang Zhang, [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/) and [Yulun Zhang](http://yulunzhang.com/)
 [[arXiv](https://arxiv.org
 )] [[supplementary material](https://github.com/)]
 
