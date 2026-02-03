@@ -75,7 +75,12 @@ Detailed results can be found in the paper.
 If you find the code helpful in your research or work, please cite the following paper.
 
 ```
-
+@article{qin2026veq,
+      title={VEQ: Modality-Adaptive Quantization for MoE Vision-Language Models}, 
+      author={Guangshuo Qin and Zhiteng Li and Zheng Chen and Weihang Zhang and Linghe Kong and Yulun Zhang},
+      journal={arXiv preprint arxiv:2602.01037},
+      year={2026}
+}
 ```
 
 ## 💡 Acknowledgements
